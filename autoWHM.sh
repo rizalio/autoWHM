@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INSTALLER_VERSION="1.0"
-MD5_CHECKSUM="23cbe42f946382e52f5a5bc869eafcdf"
+MD5_CHECKSUM="cc40571be10782571f8cb9fad7c6cc33"
 AUTHOR="Rizal Fakhri"
 FILE_OPT="/bin/bash"
 
